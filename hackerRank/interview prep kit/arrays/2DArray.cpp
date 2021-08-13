@@ -32,8 +32,8 @@ int hourglassSum(vector<vector<int>> arr) {
     }
 
     int max = sums[0];
-    for (int s: sums) 
-        if (max < s) max = s;
+    for (int i = 1; i < 16; i++) 
+        if (max < sums[i]) max = sums[i];
 
     return max;
 }
