@@ -1,5 +1,7 @@
 // Problem: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
+package leetcode.array;
+
 public class BuySellStock {
 
     // Two pointers solution:
