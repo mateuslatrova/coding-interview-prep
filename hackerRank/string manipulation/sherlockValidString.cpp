@@ -1,3 +1,5 @@
+// Problem: https://www.hackerrank.com/challenges/sherlock-and-valid-string
+
 #include <bits/stdc++.h>
 
 using namespace std;

@@ -1,3 +1,5 @@
+// Problem: https://www.hackerrank.com/challenges/alternating-characters/problem
+
 #include <bits/stdc++.h>
 
 using namespace std;

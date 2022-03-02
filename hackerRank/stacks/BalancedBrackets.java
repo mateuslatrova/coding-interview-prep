@@ -1,6 +1,10 @@
+// Problem: https://www.hackerrank.com/challenges/balanced-brackets
+
 package hackerrank.stacks;
+
 import java.util.Stack;
 import java.util.HashMap;
+
 public class BalancedBrackets {
     
     public static String isBalanced(String s) {
